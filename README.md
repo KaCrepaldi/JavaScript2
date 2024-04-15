@@ -33,9 +33,17 @@ Exercícios:
 ● (10 + 10) * 2 = 40
 ● 10 + 10 * 2 = 30
 2. Responda as perguntas de acordo com as variáveis.
-var branco = “preto”;
-var preto = “cinza”;
+var branco = “preto”;  
+var preto = “cinza”; 
 var cinza = “branco”;
 var carro = “preto”;
 var valor = 3000; var
 prestacao = 750;
+
+a) branco == “branco”  = False
+b) branco == cinza     = False
+c) carro === branco    = True
+d) var cavalo = carro == “preto” ? “cinza” : “marron”;
+e) Quantas prestações são necessárias para pagar o valor do carro com uma entrada
+de 3.000? Demonstre a operação.   ( 3,000 / 750 = 4) São 4 prestações 
+f) Somando as variáveis de cores é formada uma string de quantos caracteres? 
