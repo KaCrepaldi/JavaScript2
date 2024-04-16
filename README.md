@@ -42,8 +42,8 @@ prestacao = 750;
 
 a) branco == “branco”  = False
 b) branco == cinza     = False
-c) carro === branco    = True
-d) var cavalo = carro == “preto” ? “cinza” : “marron”;
+c) carro === branco    = False
+d) var cavalo = carro == “preto” ? “cinza” : “marron”;  = Marron 
 e) Quantas prestações são necessárias para pagar o valor do carro com uma entrada
 de 3.000? Demonstre a operação.   ( 3,000 / 750 = 4) São 4 prestações 
-f) Somando as variáveis de cores é formada uma string de quantos caracteres? 
+f) Somando as variáveis de cores é formada uma string de quantos caracteres? 15 caracteres
